@@ -1,0 +1,6 @@
+/* Main */
+
+header ul {
+    display:flex;
+    flex: 1; 
+}
