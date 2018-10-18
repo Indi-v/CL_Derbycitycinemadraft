@@ -1,6 +1,27 @@
 /* Main */
-
-header ul {
-    display:flex;
-    flex: 1; 
+body {
+	font-family: 'Varela Round', sans-serif;
+	line-height: 1.5;
+	color: #3a3a3a;
+    margin: 0;
 }
+header {
+display:flex;
+flex-basis: 100px;
+}
+.header {
+    width:100%
+}
+.head-nav {
+    margin-top:3px;
+    
+}
+ul.head-nav {
+    display:flex;
+    flex-direction:column;
+    flex: 1;
+    list-style:none; 
+};
+.head-nav li  {
+        text-align:center;
+    }
