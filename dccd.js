@@ -1,3 +1,6 @@
+
+
+//Data accumulated from Summer 2018 Draft 
 var draftData ={
   "BoxOfficeDraft": {
     "1001": {
@@ -7,7 +10,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=gringo18.htm",
       "Cost": 5,
       "Release Date": "2018-03-09T05:00:00.000Z",
-      "Domestic Gross": 4969853,
+      "DomesticGross": 4969853,
       "Value": 993970.6
     },
     "1002": {
@@ -17,7 +20,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=ladisneyfairytale22018.htm",
       "Cost": 31,
       "Release Date": "2018-03-09T05:00:00.000Z",
-      "Domestic Gross": 100478608,
+      "DomesticGross": 100478608,
       "Value": 3241245.419354839
     },
     "1003": {
@@ -27,7 +30,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=paulapostleofchrist.htm",
       "Cost": 5,
       "Release Date": "2018-03-23T04:00:00.000Z",
-      "Domestic Gross": 17560475,
+      "DomesticGross": 17560475,
       "Value": 3512095
     },
     "1004": {
@@ -37,7 +40,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=pacificrim2.htm",
       "Cost": 8,
       "Release Date": "2018-03-23T04:00:00.000Z",
-      "Domestic Gross": 59587110,
+      "DomesticGross": 59587110,
       "Value": 7448388.75
     },
     "1005": {
@@ -47,7 +50,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=isleofdogs.htm",
       "Cost": 21,
       "Release Date": "2018-03-23T04:00:00.000Z",
-      "Domestic Gross": 32015231,
+      "DomesticGross": 32015231,
       "Value": 1524534.8095238095
     },
     "1006": {
@@ -57,7 +60,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=readyplayerone.htm",
       "Cost": 17,
       "Release Date": "2018-03-29T04:00:00.000Z",
-      "Domestic Gross": 137018455,
+      "DomesticGross": 137018455,
       "Value": 8059909.117647059
     },
     "1007": {
@@ -67,7 +70,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=acrimony.htm",
       "Cost": 13,
       "Release Date": "2018-03-30T04:00:00.000Z",
-      "Domestic Gross": 43549096,
+      "DomesticGross": 43549096,
       "Value": 3349930.4615384615
     },
     "1008": {
@@ -77,7 +80,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=unirratedcomedy.htm",
       "Cost": 6,
       "Release Date": "2018-04-06T04:00:00.000Z",
-      "Domestic Gross": 60147900,
+      "DomesticGross": 60147900,
       "Value": 10024650
     },
     "1009": {
@@ -87,7 +90,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=beirut.htm",
       "Cost": 6,
       "Release Date": "2018-04-11T04:00:00.000Z",
-      "Domestic Gross": 5019226,
+      "DomesticGross": 5019226,
       "Value": 836537.6666666666
     },
     "1010": {
@@ -97,7 +100,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=newlinetentpole2018.htm",
       "Cost": 3,
       "Release Date": "2018-04-13T04:00:00.000Z",
-      "Domestic Gross": 99345950,
+      "DomesticGross": 99345950,
       "Value": 33115316.666666668
     },
     "1011": {
@@ -107,7 +110,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=supertroopers2.htm",
       "Cost": 5,
       "Release Date": "2018-04-20T04:00:00.000Z",
-      "Domestic Gross": 30617396,
+      "DomesticGross": 30617396,
       "Value": 6123479.2
     },
     "1012": {
@@ -117,7 +120,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=marvel0518.htm",
       "Cost": 60,
       "Release Date": "2018-04-27T04:00:00.000Z",
-      "Domestic Gross": 678815482,
+      "DomesticGross": 678815482,
       "Value": 11313591.366666667
     },
     "1013": {
@@ -127,7 +130,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=kings18.htm",
       "Cost": 9,
       "Release Date": "2018-04-27T04:00:00.000Z",
-      "Domestic Gross": 274635,
+      "DomesticGross": 274635,
       "Value": 30515
     },
     "1014": {
@@ -137,7 +140,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=tully2018.htm",
       "Cost": 12,
       "Release Date": "2018-05-04T04:00:00.000Z",
-      "Domestic Gross": 9334930,
+      "DomesticGross": 9334930,
       "Value": 777910.8333333334
     },
     "1015": {
@@ -147,7 +150,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=badsamaritan.htm",
       "Cost": 8,
       "Release Date": "2018-05-04T04:00:00.000Z",
-      "Domestic Gross": 3435047,
+      "DomesticGross": 3435047,
       "Value": 429380.875
     },
     "1016": {
@@ -157,7 +160,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=lifeoftheparty.htm",
       "Cost": 7,
       "Release Date": "2018-05-11T04:00:00.000Z",
-      "Domestic Gross": 52856061,
+      "DomesticGross": 52856061,
       "Value": 7550865.857142857
     },
     "1017": {
@@ -167,7 +170,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=showdogs.htm",
       "Cost": 2,
       "Release Date": "2018-05-18T04:00:00.000Z",
-      "Domestic Gross": 17857020,
+      "DomesticGross": 17857020,
       "Value": 8928510
     },
     "1018": {
@@ -177,7 +180,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=foxmarvel18.htm",
       "Cost": 39,
       "Release Date": "2018-05-18T04:00:00.000Z",
-      "Domestic Gross": 318491031,
+      "DomesticGross": 318491031,
       "Value": 8166436.692307692
     },
     "1019": {
@@ -187,7 +190,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=untitledhansolostarwarsanthologyfilm.htm",
       "Cost": 43,
       "Release Date": "2018-05-25T04:00:00.000Z",
-      "Domestic Gross": 213767512,
+      "DomesticGross": 213767512,
       "Value": 4971337.488372093
     },
     "1020": {
@@ -197,7 +200,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=oceans.htm",
       "Cost": 15,
       "Release Date": "2018-06-08T04:00:00.000Z",
-      "Domestic Gross": 19422319,
+      "DomesticGross": 19422319,
       "Value": 1294821.2666666666
     },
     "1021": {
@@ -207,7 +210,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=theincredibles2.htm",
       "Cost": 24,
       "Release Date": "2018-06-15T04:00:00.000Z",
-      "Domestic Gross": 607505936,
+      "DomesticGross": 607505936,
       "Value": 25312747.333333332
     },
     "1022": {
@@ -217,7 +220,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=jurassicworldsequel.htm",
       "Cost": 40,
       "Release Date": "2018-06-22T04:00:00.000Z",
-      "Domestic Gross": 416769345,
+      "DomesticGross": 416769345,
       "Value": 10419233.625
     },
     "1023": {
@@ -227,7 +230,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=uncledrew.htm",
       "Cost": 7,
       "Release Date": "2018-06-29T04:00:00.000Z",
-      "Domestic Gross": 42469946,
+      "DomesticGross": 42469946,
       "Value": 6067135.142857143
     },
     "1024": {
@@ -237,7 +240,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=purge4.htm",
       "Cost": 4,
       "Release Date": "2018-07-04T04:00:00.000Z",
-      "Domestic Gross": 42469946,
+      "DomesticGross": 42469946,
       "Value": 10617486.5
     },
     "1025": {
@@ -247,7 +250,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=skyscraper.htm",
       "Cost": 6,
       "Release Date": "2018-07-13T04:00:00.000Z",
-      "Domestic Gross": 67796355,
+      "DomesticGross": 67796355,
       "Value": 11299392.5
     },
     "1026": {
@@ -257,7 +260,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=mammamia2.htm",
       "Cost": 15,
       "Release Date": "2018-07-20T04:00:00.000Z",
-      "Domestic Gross": 120634935,
+      "DomesticGross": 120634935,
       "Value": 8042329
     },
     "1027": {
@@ -267,7 +270,7 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=missionimpossible6.htm",
       "Cost": 25,
       "Release Date": "2018-07-27T04:00:00.000Z",
-      "Domestic Gross": 220124188,
+      "DomesticGross": 220124188,
       "Value": 8804967.52
     },
     "1028": {
@@ -277,11 +280,11 @@ var draftData ={
       "Box Office Mojo link": "http://www.boxofficemojo.com/movies/?id=disneyfairytale2017.htm",
       "Cost": 10,
       "Release Date": "2018-08-03T04:00:00.000Z",
-      "Domestic Gross": 98628497,
+      "DomesticGross": 98628497,
       "Value": 9862849.7
     }
   },
-  "Sheet2": {
+  "Score": {
     "Travis": {
       "Gross": 767275607,
       "Spent": 100
@@ -301,10 +304,6 @@ var draftData ={
     "Bob": {
       "Gross": 1385667368,
       "Spent": 87
-    },
-    "": {
-      "Gross": "",
-      "Spent": ""
     }
   }
 }
