@@ -1,7 +1,7 @@
 
 //Definitions 
 var BoxOfficeDraft = draftData.BoxOfficeDraft;
-var BodCount= Object.keys('draftData.BoxOfficeDraft').length;
+var bodCount = Object.keys(BoxOfficeDraft).length;
 var $movieTable = $('#movieTable');
 var Score = draftData.Score;
 var $scoreTable= $('#scoreTable');
@@ -15,15 +15,16 @@ function buildMovieTable() {
     $hiddenRow.addClass('hiddenRow')
 }
 
-
-for (i=1; i<BodCount; i++) {
+// Loop to itterate once per the number of Movies in the Data and built a row for the table. 
+for (i=1; i<bodCount; i++) {
+    // Object ID's start at 1001 so this variable makes my index value
     var idVal = i + 1000;
     buildMovieTable();
 };
 
 
 
-
+// My teams/Score table wanted to built it using full jquery. 
 
 $scoreTable.append('<tr><th>Player</th><th>Current Total</th></tr>')
 $.each(Score, function buildScoreTable(key , value){

@@ -29,19 +29,25 @@ td a {
     flex:1;
 }
 
+ 
 div {
     width:80%;
     padding-top:30px;
     margin:auto;
     padding-bottom:15px;
 }
+/* Header adjustments */
+
 header {
     width:100%;
-    display:flex;
-    flex-direction:column;
-    padding: 15px;
     background-color:black;
 }
+
+header div {
+    display:flex;
+    flex-direction:column;
+}
+
 .header {
     width:auto;
     text-align:center;
@@ -51,7 +57,6 @@ h2 {
     text-align: center;
     margin:auto;
     width:100%;
-    border: white 1px;
 }
 .head-nav {
     margin-top:3px;
@@ -60,7 +65,8 @@ h2 {
 ul.head-nav {
     display:flex;
     flex-direction:column;
-    list-style:none; 
+    list-style:none;
+    padding-left:0; 
 };
 .head-nav li  {
         text-align:center;
@@ -96,12 +102,11 @@ footer div {
 
 /* Media Querys */
 
-/* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-width: 480px) {
     .hiddenRow {
         display:block;
     }
-    header {
+    header div {
     flex-direction:row;
     }
     ul.head-nav {
@@ -114,7 +119,7 @@ footer div {
         padding: 5px;
     }
     .title {
-        flex: 4 1 auto
+        flex: 3 1 auto
     }
 
 }
@@ -129,5 +134,19 @@ footer div {
         justify-content:space-evenly;
         list-style:none;
          
+    }
+    .title {
+        text-align:left;
+    }
+    .site-main {
+        display:flex;
+        flex-direction:row;
+        flex-wrap:wrap;
+    }
+    #about, #score {
+        width:40%;
+    }
+    #movie {
+        width:90%;
     }
 }
