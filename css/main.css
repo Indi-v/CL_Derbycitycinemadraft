@@ -13,6 +13,10 @@ a {
     color:coral;
 }
 
+/* Overwrite the link coloring for inner table links */
+td a {
+    color:#efefef;
+}
 /* Sticky Footer  */
 
 .site {
