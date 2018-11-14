@@ -22,7 +22,7 @@ a {
 }
 
 .site-main{
- flex:1;
+    flex:1;
 }
 
 div {
@@ -51,7 +51,6 @@ h2 {
 }
 .head-nav {
     margin-top:3px;
-    margin:auto;
     width:100%;   
 }
 ul.head-nav {
