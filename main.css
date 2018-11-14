@@ -62,7 +62,7 @@ th, td {
 /* Media Querys */
 
 /* Smartphones (portrait and landscape) ----------- */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
+@media only screen and (min-width: 480px) {
     .hiddenRow {
         display:block;
     }
@@ -73,8 +73,12 @@ th, td {
         justify-content:space-evenly;
         list-style:none; 
     }
-    .head-nav h2 {
-        flex-basis:3;
+
+    .head-nav li {
+        padding: 5px;
+    }
+    .title {
+        flex: 4 1 auto
     }
 }
 
