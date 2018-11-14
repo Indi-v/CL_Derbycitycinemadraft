@@ -1,6 +1,7 @@
 
 
-//Data accumulated from Summer 2018 Draft 
+//Data accumulated from Summer 2018 Draft Google Sheets Spreadsheet
+//Converted to json 
 var draftData ={
   "BoxOfficeDraft": {
     "1001": {

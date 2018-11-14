@@ -1,49 +1,58 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta name="viewport" content="width=device-width">
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Nunito" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="normalize.css">
-    <link rel='stylesheet' type='text/css' href='main.css'>
-        
+    <link rel="stylesheet" type="text/css" href="css\normalize.css">
+    <link rel='stylesheet' type='text/css' href="css\main.css">
+    <title>Derby City Cinema Draft</title>
 </head>
 <body>
     <header>
-
-        <div class="header">
+        <div>
+        <h2 id='site-title'>Derby City Cinema Draft</h2>
+        <nav class="header">
             <ul class="head-nav">
-                    <li class=title><h2>Derby City Cinema Draft</h2></li>
-                    <li class=nav>About</li>
-                    <li class=nav>Teams</li>
-                    <li class=nav>Movies</li>
+                    <li>About</li>
+                    <li>Teams</li>
+                    <li>Movies</li>
                     <li></li>
             </ul>
+        </nav>
         </div>
     </header>
 <!--MainBody-->    
-    
+<main class='site-main'>   
+    <div class="main-div" id="flex-about">
+            Spicy jalapeno bacon ipsum dolor amet filet mignon capicola fatback landjaeger jerky brisket pancetta. Tenderloin prosciutto sausage filet mignon pork loin, pork belly shank flank. Burgdoggen shoulder ham pancetta chicken, rump doner corned beef. Cupim flank turducken ribeye ground round, jowl tri-tip sirloin porchetta pastrami.
+    </div>
 
-        <div>
+    <div class="main-div" id="flex-score">
+        <table id="scoreTable">
+        </table>
+    </div>
 
-                <table id="movieTable">
-                        <thead>
-                            <tr>
-                                <th>Movie</th>
-                                <th class='hiddenRow'>Owner</th>
-                                <th>Gross</th>
-                            </tr>
-                        </thead>
-                    </table>
-        </div>
+    <div class="main-div" id="flex-movie">
+
+            <table id="movieTable">
+                    <thead>
+                        <tr>
+                            <th>Movie</th>
+                            <th class='hiddenRow'>Owner</th>
+                            <th>Gross</th>
+                        </tr>
+                    </thead>
+                </table>
+    </div>
 
 
-<div class='main-div'>
-    <table id="scoreTable">
-
-    </table>
-</div>
+</main>
     
 <footer>
-        <div></div>
+        <!-- <div>
+        </div> -->
+        <div>Created by <a href='https://github.com/indi-v/'>Indi-v</a> | Inspired by <a href='https://github.com/t2t2'>t2t2</a>'s <a href='https://boxofficedraft.com'>BoxOfficeDraft</a> 
+        </div>
 </footer>
     
     
@@ -53,8 +62,7 @@
         integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
         crossorigin="anonymous"></script>
         <!-- <script src='https://d3js.org/d3.v4.min.js'></script> -->
-        <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.12.1/bootstrap-table.min.js"></script> -->
-    <script src="dccd.js"></script>
-    <script src="app.js"></script>
+    <script src="js\dccd.js" type="text/javascript"></script>
+    <script src="js\app.js" type="text/javascript"></script>
 </body>
 </html>
