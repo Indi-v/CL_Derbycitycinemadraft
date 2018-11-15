@@ -1,4 +1,6 @@
-# Derby City Cinima Draft 
+# Derby City Cinema Draft 
+
+Github Pages: https://indi-v.github.io/CL_Derbycitycinemadraft/
 
 ##Description
 
