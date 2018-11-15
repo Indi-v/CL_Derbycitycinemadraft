@@ -2,14 +2,16 @@
 
 ##Description
 ```
-This is inspired by Diamond club podcast's Movie Draft league. 
+The Derby City Cinema Draft is a league of friends started back in Summer 2013. We were inspired Brian Brushwood and Diamond Club's <a href="https://draft.diamondclub.tv/">Movie Draft League</a>. Fantasy Sports for the cinephile. 
+
+We each got  &#8362;100 to spend on a play auction. We gathered over beer and pizza and watched movie trailers. After each we would bid on it for our team. Domestic Boxoffice Gross is calculated as the score for each movie. Here you see the results of DCCD Summer Movie Draft 2018. The dream would be to turn this a full featured webapp. Create your own Leage. Set your own Movies.  
+
 
 ##Custom CSS Classes
 ```
 The class(es) I created are:
 
-1. class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
+1. 
 
 2.
 ```
