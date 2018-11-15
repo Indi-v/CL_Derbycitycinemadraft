@@ -13,9 +13,19 @@ a {
     color:coral;
 }
 
-/* Overwrite the link coloring for inner table links */
-td a {
+div {
+    width:80%;
+    padding-top:30px;
+    margin:auto;
+    padding-bottom:15px;
+}
+
+/* Overwrite the link coloring Main content links for readability */
+.site-main a {
     color:#efefef;
+}
+.site-main a:hover{
+    color:#dfdfdf;
 }
 /* Sticky Footer  */
 
@@ -30,12 +40,7 @@ td a {
 }
 
  
-div {
-    width:80%;
-    padding-top:30px;
-    margin:auto;
-    padding-bottom:15px;
-}
+
 /* Header adjustments */
 
 header {
@@ -49,11 +54,6 @@ header div {
     flex-direction:column;
 }
 
-.header {
-    width:auto;
-    text-align:center;
-
-}
 
 h2 {
     text-align: center;
@@ -61,7 +61,7 @@ h2 {
     width:100%;
 }
 
-ul.head-nav {
+.head-nav {
     display:flex;
     flex-direction:column;
     list-style:none;
@@ -94,6 +94,8 @@ th, td {
     display:none;
 }
 
+/* Footer styling */
+
 footer {
     background-color:black;
     width:100%;
@@ -106,6 +108,7 @@ footer div {
 /* Media Querys */
 
 @media only screen and (min-width: 480px) {
+
     .hiddenRow {
         display:block;
     }
@@ -135,7 +138,7 @@ footer div {
         display:none;
     }
     header div{
-        justify-content:space-between
+        justify-content:space-between;
     }
     ul.head-nav {
         display:flex;
