@@ -1,4 +1,6 @@
-# Derby City Cinima Draft 
+# Derby City Cinema Draft 
+
+Github Pages: https://indi-v.github.io/CL_Derbycitycinemadraft/
 
 ##Description
 
@@ -26,7 +28,5 @@ The class(es) I created are:
 
 The javascript functions I created are:
 
-1. buildMovieTable();
-  - Function used to itterate through my draftData and build the table out. It adds the class hidden-row to the 2nd column. That is used to hide the collumn on smaller screens. It is added back after the initial brake point via Media query. 
-1. buildScoreTable();
-  - Function uses pure jquery and the .each() function to iterate through the Score object in my data and setup the scoreTable
+1. buildMovieTable();  - Function used to itterate through my draftData and build the table out. It adds the class hidden-row to the 2nd column. That is used to hide the collumn on smaller screens. It is added back after the initial brake point via Media query. 
+2. buildScoreTable();  - Function uses pure jquery and the .each() function to iterate through the Score object in my data and setup the scoreTable
