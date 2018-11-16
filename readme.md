@@ -6,7 +6,9 @@ The Derby City Cinema Draft is a fantasy league started back in Summer of 2013. 
 
 Every year (or "season"), we each get &#8362;100 to spend on a play auction. We gather over beer and pizza, and settle in for a couple hours of movie trailers. After each trailer, we all bid on the movie, with various strategies used to try and predict the movies that will make the most money for the new "owner." 
 
-Domestic box office gross is calculated as the score for each movie. Here you see the results of DCCD Summer Movie Draft 2018. 
+Domestic box office gross is calculated as the score for each movie. Here you see the results of DCCD Summer Movie Draft 2018.
+
+A community member of Diamondclub, t2t2, created <a href='https://boxofficedraft.com'>BoxOfficeDraft.com</a>. It unfortunately is defunct due to the login relying on a authentication method, Mozilla Persona, that was abandoned back in 2014. This is a reimagining of that idea. The dream would be to turn this a full featured webapp using MEAN stack.
 
 
 ##Custom CSS Classes
